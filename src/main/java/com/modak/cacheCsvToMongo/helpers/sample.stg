@@ -1,0 +1,14 @@
+group sample;
+
+
+getSQLCreateCSv(table,CsvFile)::=<<
+CREATE TABLE $table$ AS SELECT * FROM CSVREAD('$CsvFile$');
+>>
+getSQLQuery(column, table) ::= <<
+SELECT $column$ FROM $table$;
+>>
+getSQLWhere(field,column,table)::=<<
+SELECT * FROM $table$ WHERE $column$='$field$';
+>>
+
+
