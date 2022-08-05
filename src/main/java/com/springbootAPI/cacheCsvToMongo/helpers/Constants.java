@@ -1,4 +1,4 @@
-package com.modak.cacheCsvToMongo.helpers;
+package com.springbootAPI.cacheCsvToMongo.helpers;
 
 public class Constants {
     public static final String JDBC_DRIVER = "org.h2.Driver";

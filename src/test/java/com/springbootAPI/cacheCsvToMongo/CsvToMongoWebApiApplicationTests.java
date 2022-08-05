@@ -1,4 +1,4 @@
-package com.modak.cacheCsvToMongo;
+package com.springbootAPI.cacheCsvToMongo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

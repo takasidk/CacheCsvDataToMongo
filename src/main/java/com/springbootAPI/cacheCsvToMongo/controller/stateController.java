@@ -1,7 +1,7 @@
-package com.modak.cacheCsvToMongo.controller;
+package com.springbootAPI.cacheCsvToMongo.controller;
 
-import com.modak.cacheCsvToMongo.models.responseDTO;
-import com.modak.cacheCsvToMongo.services.IstateService;
+import com.springbootAPI.cacheCsvToMongo.models.responseDTO;
+import com.springbootAPI.cacheCsvToMongo.services.IstateService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;

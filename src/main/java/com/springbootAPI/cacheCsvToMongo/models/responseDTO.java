@@ -1,4 +1,4 @@
-package com.modak.cacheCsvToMongo.models;
+package com.springbootAPI.cacheCsvToMongo.models;
 
 
 import lombok.AllArgsConstructor;
