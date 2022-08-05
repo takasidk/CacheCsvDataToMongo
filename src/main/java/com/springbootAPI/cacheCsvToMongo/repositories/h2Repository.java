@@ -1,7 +1,7 @@
-package com.modak.cacheCsvToMongo.repositories;
+package com.springbootAPI.cacheCsvToMongo.repositories;
 
-import com.modak.cacheCsvToMongo.helpers.Constants;
-import com.modak.cacheCsvToMongo.models.responseDTO;
+import com.springbootAPI.cacheCsvToMongo.helpers.Constants;
+import com.springbootAPI.cacheCsvToMongo.models.responseDTO;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;

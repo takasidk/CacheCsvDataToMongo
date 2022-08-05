@@ -1,8 +1,8 @@
-package com.modak.cacheCsvToMongo.services;
+package com.springbootAPI.cacheCsvToMongo.services;
 
-import com.modak.cacheCsvToMongo.models.responseDTO;
-import com.modak.cacheCsvToMongo.repositories.h2Repository;
-import com.modak.cacheCsvToMongo.repositories.mongoRepository;
+import com.springbootAPI.cacheCsvToMongo.models.responseDTO;
+import com.springbootAPI.cacheCsvToMongo.repositories.h2Repository;
+import com.springbootAPI.cacheCsvToMongo.repositories.mongoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

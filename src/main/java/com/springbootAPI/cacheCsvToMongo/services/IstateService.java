@@ -1,6 +1,6 @@
-package com.modak.cacheCsvToMongo.services;
+package com.springbootAPI.cacheCsvToMongo.services;
 
-import com.modak.cacheCsvToMongo.models.responseDTO;
+import com.springbootAPI.cacheCsvToMongo.models.responseDTO;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
